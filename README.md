@@ -1,2 +1,2 @@
-# e-mal-token
+# e-Mal-token
 This repo contains e-mal token's smart contracts.
